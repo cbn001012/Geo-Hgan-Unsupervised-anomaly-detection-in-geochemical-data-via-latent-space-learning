@@ -1,4 +1,4 @@
-# Geo-Hgan-Unsupervised-Anomaly-Detection-via-mining-latent-space-features
+# Geo-Hgan: Unsupervised anomaly detection in geochemical data via latent space learning
 
 ## Research roadmap
 ![Research roadmap](figs/roadmap.jpg)
